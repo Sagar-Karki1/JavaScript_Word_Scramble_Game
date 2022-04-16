@@ -78,3 +78,7 @@ button {
   font-weight: bold;
   text-transform: uppercase;
 }
+
+.hidden__area {
+  display: none;
+}
